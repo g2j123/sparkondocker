@@ -1,3 +1,4 @@
+##
 FROM java:8-jre-alpine
 
 ENV GOSU_VERSION 1.10
